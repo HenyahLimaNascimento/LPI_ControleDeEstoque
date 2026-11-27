@@ -1,0 +1,9 @@
+CODIGO;DESCRICAO;CATEGORIA;QUANTIDADE;PRECO;ESTOQUE_MINIMO;ATIVO
+1001;Disjuntor bipolar 32A;1;5;45.9;10;true
+1002;Fita isolante 20m;1;80;6.5;30;true
+2001;Registro de gaveta 3/4;2;12;58.0;5;true
+3001;Alicate universal;3;0;39.9;4;true
+4001;Lâmpada LED 9W;4;40;8.9;50;true
+2002;Tubo PVC 25mm 3m;2;25;18.5;10;true
+3002;Chave de fenda 1/4;3;15;12.9;5;true
+5001;Cola instantânea 20g;5;0;7.5;5;false

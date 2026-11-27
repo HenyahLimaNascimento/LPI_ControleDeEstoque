@@ -1,0 +1,20 @@
+SISTEMA DE CONTROLE DE ESTOQUE - ELÉTRICA BOM PREÇO
+LPI - Tema 1 - Henyah Lima do Nascimento - RA 2040482612031
+
+REQUISITO
+  JDK 21 ou superior.
+  Testado com JDK 25 (Windows, VS Code) e OpenJDK 21 (Linux).
+
+ONDE FICAM OS ARQUIVOS DE DADOS
+  Na pasta raiz do projeto (a mesma deste LEIAME):
+  produtos.txt e movimentacoes.txt
+  O arquivo reposicao.txt é criado nessa pasta pela opção 14.
+
+COMPILAR (executar na pasta raiz do projeto)
+  javac -encoding UTF-8 -d bin src/SistemaEstoque.java
+
+EXECUTAR (também na pasta raiz)
+  java -cp bin SistemaEstoque
+
+SIMULAR A PRIMEIRA EXECUÇÃO
+  Mova produtos.txt e movimentacoes.txt para outra pasta e execute o programa.
